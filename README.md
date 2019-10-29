@@ -12,7 +12,7 @@ Låt klassens konstruktor anropa basklassens konstruktor för att sätta längd 
 ## Klassen Rectangle
 Implementeras på samma sätt som klassen Ellipse
 
-## Program klass - EXTRA!
+# Program klass - EXTRA!
 Vill du fortsätta med övningen kan du nu skriva en program klass. Förutom main metoden ska det finnas en del andra metoder för att hantera utskrifter och skapande av objekt i programmet. 
 
 ### Metoden CreateShape
